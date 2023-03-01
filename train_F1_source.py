@@ -13,7 +13,7 @@ flags = tf.app.flags
 FLAGS = flags.FLAGS
 flags.DEFINE_string('source_name', 'citationv1', 'Dataset string.') # acmv9 citationv1 dblpv7
 flags.DEFINE_string('target_name', 'citationv1', 'Dataset string.') # acmv9 citationv1 dblpv7
-flags.DEFINE_string('data_folder', '../data/', 'Dataset string.')
+flags.DEFINE_string('data_folder', './data/', 'Dataset string.')
 flags.DEFINE_string('model', 'gcn', 'Model string.')  # 'gcn', 'gcn_cheby', 'dense'
 flags.DEFINE_float('learning_rate', 0.01, 'Initial learning rate.')
 flags.DEFINE_float('learning_rate2', 0.001, 'Initial learning rate.')
