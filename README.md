@@ -36,6 +36,16 @@ If you find the code useful in your research, please consider citing:
 
 ```
 
+@ARTICLE{10179964,
+  author={Wang, Wei and Zhang, Gaowei and Han, Hongyong and Zhang, Chi},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Correntropy-Induced Wasserstein GCN: Learning Graph Embedding via Domain Adaptation}, 
+  year={2023},
+  volume={32},
+  number={},
+  pages={3980-3993},
+  keywords={Noise measurement;Knowledge transfer;Task analysis;Pollution measurement;Data mining;Proteins;Convolutional neural networks;Graph embedding;graph convolutional network (GCN);cross-graph embedding;domain adaptation;correntropy},
+  doi={10.1109/TIP.2023.3293774}}
 
 
 ```
